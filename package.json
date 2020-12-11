@@ -26,8 +26,6 @@
     "url": "https://github.com/creativeJoe007/react-native-rave-webview/issues"
   },
   "homepage": "https://github.com/creativeJoe007/react-native-rave-webview#readme",
-  "dependencies": {
-    "react-native-webview": "^9.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
